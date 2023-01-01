@@ -1,1 +1,1 @@
-> **hello word** :wave:
+> **hello world ** :wave:
